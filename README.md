@@ -1,1 +1,1 @@
-# odin-recipes
+Hey, this is you first project and it's about you favorite recipes so, go ahead enjoy creating it, have fun and remember to keep studying and practicing. You will get it done if you really mean it!
